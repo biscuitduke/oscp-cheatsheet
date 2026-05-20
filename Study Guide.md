@@ -1,0 +1,4 @@
+- **[OffSec Machine Walkthroughs](https://www.youtube.com/playlist?list=PLJrSyRNlZ2EeqkJa12Tu-Ezun9kXvHufN)**
+- **[Eater's OSCP List ](https://docs.google.com/spreadsheets/d/1Hju746dcLxjHkEvPuvFbSB6BCQX90pInniAAUTrEdRE/edit?gid=488959887#gid=488959887)**
+- **[OffSec Proving Grounds](https://www.offsec.com/labs/individual/)**
+- **HTB Academy** 
